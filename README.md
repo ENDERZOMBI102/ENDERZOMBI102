@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ENDERZOMBI102/ENDERZOMBI102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on too many projects.
-- 🌱 I’m currently learning EVERYTHING
-- 💬 Ask me about idk, something
-- 📫 How to reach me: discord 
-- 😄 Pronouns: He/Him/Wharever idc
+- 🔭 I’m currently working on everything you can imagine; chat? yes. source engine plugins? got ya covered!
+- 🌱 I’m currently learning EVERYTHING i can : P
+- 📫 How to reach me: discord ENDERZOMBI102#2143
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have more than 10 active projects!
--->
