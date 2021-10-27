@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning EVERYTHING i can : P
 - 📫 How to reach me: discord ENDERZOMBI102#2143
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have more than 10 active projects!
+- ⚡ Fun fact: I'm currently working on a rust game engine and an esoteric programming language in python!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERZOMBI102)](https://github.com/anuraghazra/github-readme-stats)
