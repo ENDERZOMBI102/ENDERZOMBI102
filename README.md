@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Cool fact: I'm currently working on a rust game engine and an esoteric programming language in python!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERZOMBI102)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERZOMBI102&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
