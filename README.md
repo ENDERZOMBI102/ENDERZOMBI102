@@ -9,5 +9,5 @@
 - ⚡ Cool fact: I'm currently working on a rust game engine and an esoteric programming language in python!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERZOMBI102&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![ENDERZOMBI102's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ENDERZOMBI102&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ENDERZOMBI102's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ENDERZOMBI102)](https://github.com/anuraghazra/github-readme-stats)
 
