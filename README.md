@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm ENDERZOMBI102, or just ender, i'm a Computer Science student who is appasionate of programming and nature.
+I mostly develop in Java 8/17 for Minecraft Java mods but i'm also very experienced with python or Rust.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ENDERZOMBI102&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
