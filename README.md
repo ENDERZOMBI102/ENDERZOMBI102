@@ -11,8 +11,8 @@ I mostly develop in Java 8/17 or Kotlin for `Minecraft Java Edition` mods, but I
 - 📫 How to reach me: discord ENDERZOMBI102#2143
 - 💬 You can ask me about basically anything regarding computer science or its story
 - 😄 Pronouns: She/Her - They/Them
-- ⚡ Cool fact: I'm currently working on a rust game engine and an esoteric programming language in python!
-- 🐍 Python one-liners fanatic, [here's](https://gist.github.com/ENDERZOMBI102/f6a6b76995969577ec7d64397fecb489) a working tic-tac-toe in one line
+- ⚡ Cool fact: I'm currently working on a rust game engine and a compiled native programming language called fox!
+- 🐍 Python one-liner fanatic, [here's](https://gist.github.com/ENDERZOMBI102/f6a6b76995969577ec7d64397fecb489) a working tic-tac-toe in one line
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERZOMBI102&langs_count=9&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
