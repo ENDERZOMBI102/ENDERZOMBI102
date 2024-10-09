@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm ENDERZOMBI102 (a.k.a. ender), an italian Computer Science student,
-passionate about programming and a lover of nature.  
+I'm ENDERZOMBI102 (a.k.a. ender), a Computer Science student who is passionate about programming and a lover of nature.  
 I mostly develop in C++, Zig, Python and Java ( Java/Kotlin mostly for `Minecraft` mods ),
 but I'm also experienced with Kotlin, Rust, (Type|Java)Script and other languages.
 
