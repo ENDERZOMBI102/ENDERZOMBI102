@@ -11,7 +11,7 @@ passing by game engines and CLI/GUI tools.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENDERZOMBI102&langs_count=10&exclude_repo=JythonMC&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 - 😄 Pronouns: She/Her - They/Them
-- 🔭 I’m currently working on a fork of the [Source Engine](https://github.com/ValveSoftware/source-sdk-2013), on a compiler, a PBR raytracer, and many more things!
+- 🔭 I’m currently working on a fork of the [Source Engine](https://github.com/ValveSoftware/source-sdk-2013), on a compiler, a Minecraft total conversion, and many more things!
 - 🌱 I’m currently learning EVERYTHING I can :3
 - 📫 How to reach me: Discord @enderzombi102 ~~ENDERZOMBI102#2143~~ RIP discriminator [![Mastodon](https://img.shields.io/mastodon/follow/109353499816021321?domain=https%3A%2F%2Fblobfox.coffee&style=flat-square&logo=mastodon&label=%40ENDERZOMBI102&color=C246FA)](https://blobfox.coffee/@ENDERZOMBI102)
 - 💬 You can ask me about basically anything regarding computer science or its story
